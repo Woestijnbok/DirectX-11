@@ -400,3 +400,7 @@ FodyWeavers.xsd
 # But not the lib folder and its contents
 !lib/
 !lib/**
+
+# Keep track of the resources in the source folder
+!source/Resources
+!source/Resources/**
