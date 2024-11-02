@@ -398,9 +398,9 @@ FodyWeavers.xsd
 *.sln.iml
 
 # But not the lib folder and its contents
-!lib/
-!lib/**
+!Libraries/
+!Libraries/**
 
 # Keep track of the resources in the source folder
-!source/Resources
-!source/Resources/**
+!DirectX/Resources/
+!DirectX/Resources/**
