@@ -1,7 +1,7 @@
 # Introduction
 
-Welcome this project was used to introduce myself in the graphics programming world. I decided to start with DirectX 11 but I have done one a [Vulkan project](https://github.com/Woestijnbok/Vulkan-Tutorial) as well.
-Since this was my introduction, I mainly fondled with same basic phong and transparent shaders. I also tested the use of normal maps and the different sampler filters. 
+Welcome this project was used to introduce myself in the graphics programming world. I decided to start with DirectX 11 but I have done a [Vulkan project](https://github.com/Woestijnbok/Vulkan-Tutorial) since.
+Since this was my introduction, I mainly fondled with same basic phong and transparent shaders using hlsl. I also tested the use of normal maps and the different sampler filters. 
 I tried to understand the graphics pipeline and DirectX 11 api as much as possible.
 
 <div align="center">
