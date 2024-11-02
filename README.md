@@ -11,7 +11,7 @@ I tried to understand the graphics pipeline and DirectX 11 api as much as possib
 
 # Controls
 
-- **Camera**: The camera can be moved forward via **WS**, up with **QE** and to the right using **AD** (Unreal Engine Controls).
+- **Camera**: The camera can be moved forward via **WS**, up with **QE** and to the right using **AD** (UE Controls).
 - **General**: To disable the transparent fire press **3** and to stop the vehicle from rotating use **R**.
 - **Other**: You can switch between sampler filters with **1** and toggle the normal map via **2**.
 
