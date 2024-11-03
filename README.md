@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome this project was used to introduce myself in the graphics programming world. I decided to start with DirectX 11 but I have done a [Vulkan project](https://github.com/Woestijnbok/Vulkan-Tutorial) since.
+Welcome this project was used to introduce myself in the graphics programming world. I decided to start with DirectX 11 but I have done a [Vulkan Project](https://github.com/Woestijnbok/Vulkan-Tutorial) since.
 Since this was my introduction, I mainly fondled with same basic phong and transparent shaders written in hlsl. I also tested the use of normal maps and the different sampler filters. 
 I tried to understand the graphics pipeline and DirectX 11 api as much as possible.
 
@@ -11,7 +11,8 @@ I tried to understand the graphics pipeline and DirectX 11 api as much as possib
 
 # Controls
 
-- **Camera**: The camera can be moved forward via **WS**, up with **QE** and to the right using **AD** (UE Controls).
+- **Camera Position**: The camera can be moved forward via **WS**, up with **QE** and to the right using **AD** (UE Controls).
+- **Camera Rotation**: Camera's pitch and yaw can change by dragging the **RIGHT MOUSE BUTTON** while it's down.
 - **General**: To disable the transparent fire press **3** and to stop the vehicle from rotating use **R**.
 - **Other**: You can switch between sampler filters with **1** and toggle the normal map via **2**.
 
